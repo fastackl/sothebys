@@ -1,0 +1,205 @@
+{
+    "kspec":
+    {
+        "type": "nft",
+        "editioned": false,
+        "version": 0.1
+    },
+    "header":
+    {
+        "json_minified_body_hash": "a4be143cdb16337289bb125c6211b6d877480a1002c6e99f3879e58d578372bf"
+    },
+    "body":
+    {
+        "metadata":
+        {
+            "credits":
+            [
+                {
+                    "address": "0x3cbf58eb09af7fe1f3d5de7c6d4762ea39971384",
+                    "kspec_id_tx": "",
+                    "roles":
+                    [
+                        "minter",
+                        "author"
+                    ]
+                }
+            ],
+            "asset":
+            {
+                "type": "artwork",
+                "technical_description": "",
+                "artist_description": "In 1989, British computer scientist Sir Tim Berners-Lee invented the World Wide Web, engendering the greatest paradigm shift of the modern era.\n\nSir Tim Berners-Lee’s “WorldWideWeb” application was the first hypermedia browser/editor, allowing users to create and navigate links between files across a network of computers. It was written in the Objective C programming language, using the Interface Builder on a NeXT computer, a highly influential and innovative computer designed by Steve Jobs in between the time he was forced out of Apple in 1985 and when he rejoined in 1997.\n\nThe files referenced by this NFT contain code totalling 9,555 lines. Their contents include implementations of the three languages and protocols Sir Tim invented that remain fundamental to the World Wide Web today: HTML (Hypertext Markup Language), HTTP (Hypertext Transfer Protocol) and URIs (Uniform Resource Identifiers). There are also original HTML documents that instructed early web users on how to use the application.\n\n- [An animated visualization of the code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/fullCode+signature.mp4) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/fullCode+signature.mp4)\n- [Original, time-stamped code files (tar.gz archive)](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything.tar.gz) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything.tar.gz)\n- [Browsable online directory of code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything.html) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything.html)\n- [Digital “poster” of the full code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/poster-autographed-vector.svg) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/poster-autographed-vector.svg)\n- [A letter from Sir Tim](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything/WWW-Letter-Final.md) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything/WWW-Letter-Final.md)\n",
+                "components":
+                [
+                    {
+                        "description": "source_code_archive",
+                        "asset":
+                        {
+                            "record_id": "4dc80cbe5ce7a8373c0436d94b9792961f03ef4e6a28cd4486d77382cbc3ba64"
+                        }
+                    },
+                    {
+                        "description": "minted_media",
+                        "asset":
+                        {
+                            "record_id": "6f9abba59a948f5a3235bb83694a091758ac75357000db05fe39bccc7e791f6f"
+                        }
+                    },
+                    {
+                        "description": "digital_poster",
+                        "asset":
+                        {
+                            "record_id": "ea02d6518451c4c8f21844823223a4a2c58203a6ed3d1a0856be1d5675d101b0"
+                        }
+                    },
+                    {
+                        "description": "letter",
+                        "asset":
+                        {
+                            "record_id": "5aea572f162af8b99b04e1dd92255889b9967152f71dcee905a57435d3af4cae"
+                        }
+                    }
+                ],
+                "display_specifications":
+                {
+                    "physical":
+                    {
+                        "description": "",
+                        "diagram":
+                        {
+                            "record_id": ""
+                        }
+                    },
+                    "web": ""
+                },
+                "licence":
+                {
+                    "type": "",
+                    "full_text":
+                    {
+                        "record_id": ""
+                    },
+                    "royalty_percent": 10
+                }
+            },
+            "distribution":
+            {
+                "application_opensea":
+                {
+                    "title": "This Changed Everything: Source Code for WWW x Sir Tim Berners-Lee, An NFT",
+                    "year": "2021",
+                    "description": "In 1989, British computer scientist Sir Tim Berners-Lee invented the World Wide Web, engendering the greatest paradigm shift of the modern era.\n\nSir Tim Berners-Lee’s “WorldWideWeb” application was the first hypermedia browser/editor, allowing users to create and navigate links between files across a network of computers. It was written in the Objective C programming language, using the Interface Builder on a NeXT computer, a highly influential and innovative computer designed by Steve Jobs in between the time he was forced out of Apple in 1985 and when he rejoined in 1997.\n\nThe files referenced by this NFT contain code totalling 9,555 lines. Their contents include implementations of the three languages and protocols Sir Tim invented that remain fundamental to the World Wide Web today: HTML (Hypertext Markup Language), HTTP (Hypertext Transfer Protocol) and URIs (Uniform Resource Identifiers). There are also original HTML documents that instructed early web users on how to use the application.\n\n- [An animated visualization of the code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/fullCode+signature.mp4) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/fullCode+signature.mp4)\n- [Original, time-stamped code files (tar.gz archive)](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything.tar.gz) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything.tar.gz)\n- [Browsable online directory of code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything.html) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything.html)\n- [Digital “poster” of the full code](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/poster-autographed-vector.svg) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/poster-autographed-vector.svg)\n- [A letter from Sir Tim](https://arweave.net/jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything/WWW-Letter-Final.md) [[alternate]](https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything/WWW-Letter-Final.md)\n",
+                    "media":
+                    {
+                        "record_id": "6f9abba59a948f5a3235bb83694a091758ac75357000db05fe39bccc7e791f6f"
+                    },
+                    "attributes":
+                    [ ]
+                }
+            }
+        },
+        "storage":
+        {
+            "records":
+            [
+                {
+                    "_id": "5aea572f162af8b99b04e1dd92255889b9967152f71dcee905a57435d3af4cae",
+                    "blob_hash": "69b5c98154a22d47b434dd87476569e16a654dd60660145f6e52c43ce4a03430",
+                    "description": "letter",
+                    "bytes": 0,
+                    "comments": "A letter written in the README.md file (in “markdown” format) by Sir Tim in June of 2021, reflecting upon the code and his process of creating it",
+                    "filename": "WWW-Letter-Final.md",
+                    "mime_type": "text/x-markdown",
+                    "data_replication":
+                    {
+                        "archive":
+                        {
+                            "centralized_urls":
+                            [
+                                "https://vault.kanon.art/kspec/tim_berners_lee/this_changed_everything/letter/WWW-Letter-Final.md"
+                            ],
+                            "cids":
+                            {
+                                "ipfs_cid": "https://ipfs.io/ipfs/QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/ThisChangedEverything/WWW-Letter-Final.md",
+                                "arweave_data_tx_id": "jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/ThisChangedEverything/WWW-Letter-Final.md"
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "ea02d6518451c4c8f21844823223a4a2c58203a6ed3d1a0856be1d5675d101b0",
+                    "blob_hash": "9b40b021c541d6e7505e46c7d600d4bf1af6720005d12b940373f7f2786a7944",
+                    "description": "digital_poster",
+                    "bytes": 722099,
+                    "comments": "A Scalable Vector Graphics (SVG) representation of the full code (A0 841mm wide by 1189 mm high), created by Sir Tim from the original files using Python, with a graphic representation of his physical signature at lower right",
+                    "filename": "poster-autographed-vector.svg",
+                    "mime_type": "image/svg+xml",
+                    "data_replication":
+                    {
+                        "archive":
+                        {
+                            "centralized_urls":
+                            [
+                                "https://vault.kanon.art/kspec/tim_berners_lee/this_changed_everything/digital_poster/poster-autographed-vector.svg"
+                            ],
+                            "cids":
+                            {
+                                "ipfs_cid": "QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/poster-autographed-vector.svg",
+                                "arweave_data_tx_id": "jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/poster-autographed-vector.svg"
+                            }
+                        }
+                    }
+                },                
+                {
+                    "_id": "4dc80cbe5ce7a8373c0436d94b9792961f03ef4e6a28cd4486d77382cbc3ba64",
+                    "blob_hash": "52ad9dcb8741c8190df07a02047f835d9480a35cdb620efe3931a53a15314b7f",
+                    "description": "source_code_archive",
+                    "bytes": 1782784,
+                    "comments": "Original archive of dated and time-stamped files containing the source code, written between 3 October 1990 and 24 August 1991. These files contain code with approximately 9,555 lines, the contents of which include implementations of the three languages and protocols invented by Sir Tim; HTML (Hypertext Markup Language); HTTP (Hyper Transfer Protocol); and URIs (Uniform Resource Identifiers), as well as the original HTML documents that instructed early web users on how to use the application",
+                    "filename": "ThisChangedEverything.tar",
+                    "mime_type": "application/x-tar",
+                    "data_replication":
+                    {
+                        "archive":
+                        {
+                            "centralized_urls":
+                            [
+                                "https://vault.kanon.art/kspec/tim_berners_lee/this_changed_everything/source_code_archive/ThisChangedEverything.tar"
+                            ],
+                            "cids":
+                            {
+                                "ipfs_cid": "https://ipfs.io/ipfs/QmYLvaAoY9aqfZGjkw3cMGRxdYd1VgE2HqBi7XKo7GorFN/ThisChangedEverything.tar",
+                                "arweave_data_tx_id": "jEcsnE5AjdBeZvYIGb7i4bltdaVRokgJ1YaDcWhF0_s"
+                            }
+                        }
+                    }
+                },
+                {
+                    "_id": "6f9abba59a948f5a3235bb83694a091758ac75357000db05fe39bccc7e791f6f",
+                    "blob_hash": "ae63676dd8ac32b8383b3a9d6af6633c301813718c6846074513cd4388e9849e",
+                    "description": "minted_media",
+                    "bytes": 378680377,
+                    "comments": "Animated visualization of the code being written (Video, black & white, silent), lasting 30 minutes 25 seconds",
+                    "filename": "fullCode+signature.mp4",
+                    "mime_type": "video/mp4",
+                    "data_replication":
+                    {
+                        "archive":
+                        {
+                            "centralized_urls":
+                            [
+                                "https://vault.kanon.art/kspec/tim_berners_lee/this_changed_everything/minted_media/fullCode%2Bsignature.mp4"
+                            ],
+                            "cids":
+                            {
+                                "ipfs_cid": "QmQwyhubhyig5RyUgjz26fojndeeP4cWnc5xx4jQ1So7HH/fullCode+signature.mp4",
+                                "arweave_data_tx_id": "jUjGl893ZAWPpMQg4lyVEDUKNchdxKi2MxUQ_4-q6mY/fullCode+signature.mp4"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

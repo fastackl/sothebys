@@ -1,0 +1,88 @@
+{
+    "name": "Quantum",
+    "description": "This code-generated work presents an ongoing, abstract, cycle of birth, death, and rebirth. It tells this story through color, line and movement. In 2014, I had an idea to use blockchain technology to create indelible provenance and ownership of digital images of this kind. Quantum was the first ever to be recorded in this way.- Kevin McCoy, 2021  \n\n“How to picture the moment of creation. A spark, a seed, a particle. We have narratives that describe it as an interval of days or as a cryptic alphabet that divides the earth from the firmament. [Kevin McCoy’s]Quantum takes its place alongside other original icons replacing their aura and gilding with a pulsating luminous heartbeat. To call this a mandala would not be an understatement, since what is a mandala if not an allegory for a universe, its revolutions, breath and winking into being out of nothingness?” - David Geers, art critic, 2021",
+    "external_url": "",
+    "animation_url": "https://ipfs.io/ipfs/QmPkJoCk1vZ7wGMhfDer9fwpQtRGWwPn7NrocaCn7JS2SM",
+    "image": "https://ipfs.io/ipfs/QmPkJoCk1vZ7wGMhfDer9fwpQtRGWwPn7NrocaCn7JS2SM",
+    "attributes":
+    [
+        {
+            "trait_type": "Artist",
+            "value": "Kevin McCoy"
+        },
+        {
+            "trait_type": "Rights Agreement",
+            "value": "https://ipfs.io/ipfs/QmUhoG7RaMi4fiEEDDMbTXMhPdZSBS11SiZErTzZhWVUWe"
+        },
+        {
+            "trait_type": "Archive Link",
+            "value": "https://ipfs.io/ipfs/QmRWhsnDKBwWDozDgDp8Te25KDViDcfz83zDs7ykR1x995"
+        }
+    ],
+    "properties":
+    {
+        "name":
+        {
+            "type": "string",
+            "description": "Quantum"
+        },
+        "description":
+        {
+            "type": "string",
+            "description": "This code-generated work presents an ongoing, abstract, cycle of birth, death, and rebirth. It tells this story through color, line and movement. In 2014, I had an idea to use blockchain technology to create indelible provenance and ownership of digital images of this kind. Quantum was the first ever to be recorded in this way.- Kevin McCoy, 2021  \n\n“How to picture the moment of creation. A spark, a seed, a particle. We have narratives that describe it as an interval of days or as a cryptic alphabet that divides the earth from the firmament. [Kevin McCoy’s]Quantum takes its place alongside other original icons replacing their aura and gilding with a pulsating luminous heartbeat. To call this a mandala would not be an understatement, since what is a mandala if not an allegory for a universe, its revolutions, breath and winking into being out of nothingness?” - David Geers, art critic, 2021"
+        },
+        "image":
+        {
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmPkJoCk1vZ7wGMhfDer9fwpQtRGWwPn7NrocaCn7JS2SM"
+        },
+        "rights_agreement":
+        {
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmUhoG7RaMi4fiEEDDMbTXMhPdZSBS11SiZErTzZhWVUWe"
+        },
+        "rights_agreement_signature_type":
+        {
+            "type": "string",
+            "description": "SHA-256"
+        },
+        "rights_agreement_signature":
+        {
+            "type": "string",
+            "description": "5edcfc3180c9cb2164b54a77b9f5dc996a08b9342bf99bf57e3c6c3d1346071c"
+        },
+        "archive_link":
+        {
+            "type": "string",
+            "description": "https://ipfs.io/ipfs/QmRWhsnDKBwWDozDgDp8Te25KDViDcfz83zDs7ykR1x995"
+        },
+        "archive_link_signature_type":
+        {
+            "type": "string",
+            "description": "SHA-256"
+        },
+        "archive_link_signature":
+        {
+            "type": "string",
+            "description": "d41b8540cbacdf1467cdc5d17316dcb672c8b43235fa16cde98e79825b68709a"
+        },
+        "rights_agreement_values":
+        {
+            "$ARTIST": "Kevin McCoy",
+            "$SHAHASH": "d41b8540cbacdf1467cdc5d17316dcb672c8b43235fa16cde98e79825b68709a",
+            "$CONTRACTSHAHASH": "5edcfc3180c9cb2164b54a77b9f5dc996a08b9342bf99bf57e3c6c3d1346071c",
+            "$URL": "https://ipfs.io/ipfs/QmPkJoCk1vZ7wGMhfDer9fwpQtRGWwPn7NrocaCn7JS2SM",
+            "$TITLE": "Quantum",
+            "$YEAR": "2014",
+            "$ROYALTYRATE": "10",
+            "$TOKEN": "eth",
+            "$ADDRESS": "0xA57fB5A5aD51beb3854D801ea3Ad6AC2845CD082",
+            "$LICENSE": "CA.05.19.21., Patent No. US 10,380,702"
+        },
+        "additional_info":
+        {
+            "type": "string",
+            "description": "Original artwork URL: https://static.mccoyspace.com/gifs/quantum.gif\n\nOriginal publication tweet: https://twitter.com/mccoyspace/status/462320426719641600\n\nOriginal namecoin txid: fa8b9a6ad4d266ffbec4f9a1217e0dbcd657bb1eb3ed49912a2ab1bd3bb48f8d\n\nSee also: https://mccoyspace.com/project/125/\n\n--------------------------\nArchive link: https://ipfs.io/ipfs/QmRWhsnDKBwWDozDgDp8Te25KDViDcfz83zDs7ykR1x995\n\nNote that the images contained in quantum-frames.zip are only to be used by future conservators and archivists who may need to reconstruct the animation file in a manner consistent with the artworks original functionality and appearance in order to maintain the owners rights to display the artwork as defined in the rights agreement. Their use in such archiving and conservation processes is expressly allowed. With the above exception noted, copyright to all files (and images contained in the archive link files) remains with the artist.\n\n--------------------------\nQuantum\nGenerative Animation\n300x300 px\n2014\n\nThis code-generated work presents an ongoing, abstract, cycle of birth, death, and rebirth. It tells this story through color, line and movement. In 2014, I had an idea to use blockchain technology to create indelible provenance and ownership of digital images of this kind. Quantum was the first ever to be recorded in this way.- Kevin McCoy, 2021  \n\n“How to picture the moment of creation. A spark, a seed, a particle. We have narratives that describe it as an interval of days or as a cryptic alphabet that divides the earth from the firmament. [Kevin McCoy’s]Quantum takes its place alongside other original icons replacing their aura and gilding with a pulsating luminous heartbeat. To call this a mandala would not be an understatement, since what is a mandala if not an allegory for a universe, its revolutions, breath and winking into being out of nothingness?” - David Geers, art critic, 2021\n\n----------------------------\nSigned Message for independent verification from a namecoin client. This proves that I had ownership of the address that sent the transaction that originally minted Quantum:\n\nAddress: N2nunKeYiYeqDCunDzJ3EQQh1fbAawegPW\nSignature: G3lWiwdDFkRycZZZ5LSwgx4KnFhk9QY/vsqWTtj3bZZ1/WTYDitgJKft9a4d7B0nqCbRRPuvKKX0hi2607j1hN0=\nMessage: \"I Kevin McCoy ceated the artwork Quantum and recorded it on the namecoin blockchain from this wallet on May 2, 2014, making it the first of what we now call NFTs. I still own this artwork and control the originating address.\"\n----------------------------------\nOUTPUT FROM CONSOLE OPERATIONS FROM THE ORIGINAL NAMECOIN CLIENT THAT MINTED QUANTUM\n\nname_list d41b8540cbacdf1467cdc5d17316dcb672c8b43235fa16cde98e79825b68709a\n\n[\n{\n\"name\" : \"d41b8540cbacdf1467cdc5d17316dcb672c8b43235fa16cde98e79825b68709a\",\n\"value\" : \"I assert title to the file at the URL http://static.mccoyspace.com/gifs/quantum.gif with the creator's public announcement of it's publishing at the URL \\nhttps://twitter.com/mccoyspace/status/462320426719641600 The file whose SHA256 hash is d41b8540cbacdf1467cdc5d17316dcb672c8b43235fa16cde98e79825b68709a is taken to be the file in question. Title transfers to whoever controls this blockchain entry.\",\n\"address\" : \"N2nunKeYiYeqDCunDzJ3EQQh1fbAawegPW\",\n\"expires_in\" : -16587,\n\"expired\" : 1\n}\n]\n--------------------\n\nverifymessage N2nunKeYiYeqDCunDzJ3EQQh1fbAawegPW G3lWiwdDFkRycZZZ5LSwgx4KnFhk9QY/vsqWTtj3bZZ1/WTYDitgJKft9a4d7B0nqCbRRPuvKKX0hi2607j1hN0= \"I Kevin McCoy ceated the artwork Quantum and recorded it on the namecoin blockchain from this wallet on May 2, 2014, making it the first of what we now call NFTs. I still own this artwork and control the originating address.\"\n\ntrue\n\n--------------------\n"
+        }
+    }
+}

@@ -8,10 +8,10 @@
 - e.g. Kevin McCoy vs Timbl vs KSPEC
 
 #3. Expressiveness & Completeness
-- e.g. complete description of what the artwork is, vs what's referenced in the NFT
+- e.g. complete description of what the artwork is, cf what's only "referenced" in the NFT
 - e.g. Sotheby's website mentions a 10% royalty, but that's not recorded anywhere in the NFT
-- Arbitrary number AND types of assets (live websites, source code, 3d assets, licenses etc.)
-- arbitrary number of platforms (e.g. Decentraland, Opensea, Snapchat etc.)
+- **Arbitrary number AND types of assets (live websites, source code, 3d assets, licenses etc.)**
+- **Arbitrary number of platforms (e.g. Decentraland, Opensea, Snapchat etc.)**
 
 #4. Extensibility
 - ability to add information to the NFT, make it a living asset
@@ -24,6 +24,7 @@
 
 #6. Machine readability
 - KSPEC provideds a standardised JSON data structure, easy for machines to read
+- .e.g. references in KSPEC licence
 - Data structure of most NFTs, including Timble NFT, Kevin McCoy etc. are heterogeneus and usually jam information into "description" and other fields
 
 #7. Compatibility
@@ -38,7 +39,7 @@
 
 #9. Highly vetted, live and ready to go
 - We've discussed KSPEC with the IPFS team, Superrare, Paul Chan, Pak, engineers and senior museum curators
-- We're very confident that at this point that it can't be broken
+- We're very confident at this point that it can't be broken
 - already live with Suzy Treister's piece
 
 #10. Standardisation

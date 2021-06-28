@@ -61,6 +61,16 @@
                         }
                     }
                 ],
+                "extras":
+                [
+                    {
+                        "description": "sothebys_catalogue",
+                        "asset":
+                        {
+                            "record_id": ""
+                        }
+                    }
+                ],
                 "display_specifications":
                 {
                     "physical":
@@ -95,7 +105,7 @@
                         "record_id": "6f9abba59a948f5a3235bb83694a091758ac75357000db05fe39bccc7e791f6f"
                     },
                     "attributes":
-                    [ ]
+                    []
                 }
             }
         },
@@ -150,7 +160,7 @@
                             }
                         }
                     }
-                },                
+                },
                 {
                     "_id": "4dc80cbe5ce7a8373c0436d94b9792961f03ef4e6a28cd4486d77382cbc3ba64",
                     "blob_hash": "52ad9dcb8741c8190df07a02047f835d9480a35cdb620efe3931a53a15314b7f",
